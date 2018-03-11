@@ -1,0 +1,8 @@
+NAME=libmpeg2
+VERSION=0.5.1
+REVISION=1
+LICENSE=GPL-1.0-or-later
+SRC=http://libmpeg2.sourceforge.net/files/libmpeg2-0.5.1.tar.gz
+SRCMD5=0f92c7454e58379b4a5a378485bbd8ef
+BUILDDEPS=sdl
+INSTALLDEPS=sdl
